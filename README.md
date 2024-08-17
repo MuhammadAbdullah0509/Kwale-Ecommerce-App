@@ -1,8 +1,16 @@
-# Kwale-Ecommerce-App
-Kwale is an eCommerce app featuring a local database and integrated chat functionality. It supports both vendor and buyer profiles, allowing users to manage both simultaneously.
-Key Features
-Local Database: Efficient local data management.
-Chat Functionality: Seamless communication between buyers and vendors.
-Dual Profiles: Manage vendor and buyer profiles at the same time.
-Vendor Side: Product management and buyer interaction.
-Buyer Side: Product browsing, purchasing, and chatting with vendors.
+# kwale
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
