@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770089554311",
+    "project_id": "kwale-ccb0d",
+    "storage_bucket": "kwale-ccb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770089554311:android:5da11c4f25fed281c64322",
+        "android_client_info": {
+          "package_name": "com.example.kwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770089554311-sjt5gvbbc78gbkb4spf2e6hag49i8bnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kwale",
+            "certificate_hash": "ad999e91a575ad8621e7d980c62b6682ace53db4"
+          }
+        },
+        {
+          "client_id": "770089554311-po1568mcoku0kfruqtmvpm44k7sfa2vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MUzMF1pO4m8cMV0YM3oANz7PdTmUo24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770089554311-akg35f76khb2ipd99ocb43l46aoatnhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
