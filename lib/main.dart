@@ -16,9 +16,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Hide the status bar
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
-
     return ChangeNotifierProvider(
       create: (context) => GoogleSingInProvider(),
       child: MaterialApp(
